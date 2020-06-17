@@ -41,12 +41,9 @@
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="/usr/bin/python3.8" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
@@ -77,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1592323958163</updated>
       <workItem from="1592323963717" duration="871000" />
-      <workItem from="1592407847481" duration="432000" />
+      <workItem from="1592407847481" duration="623000" />
     </task>
     <servers />
   </component>
@@ -85,10 +82,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2590" y="91" width="570" height="833" key="#main" timestamp="1592408278924">
+    <state x="2590" y="91" width="570" height="833" key="#main" timestamp="1592408469627">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2590" y="91" width="570" height="833" key="#main/1920.0.1920.1080/0.25.1920.995/3840.0.1920.1080@1920.0.1920.1080" timestamp="1592408278924" />
+    <state x="2590" y="91" width="570" height="833" key="#main/1920.0.1920.1080/0.25.1920.995/3840.0.1920.1080@1920.0.1920.1080" timestamp="1592408469627" />
     <state width="1874" height="190" key="GridCell.Tab.0.bottom" timestamp="1592330863550">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>

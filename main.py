@@ -65,7 +65,7 @@ class GeneticAlgorithm:
                 break
 
 
-TARGET = "Tutaj wpisac tekst do testu"
+TARGET = "To nie moj kod ;/"
 
 
 class Text(Element):
